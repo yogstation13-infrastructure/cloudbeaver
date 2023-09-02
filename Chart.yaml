@@ -1,0 +1,8 @@
+apiVersion: v2
+name: yogstation-cloudbeaver
+description: Yogstation CloudBeaver Deployment
+
+type: application
+
+version: 0.0.1
+appVersion: 23.1.5
